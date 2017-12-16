@@ -1,0 +1,9 @@
+C:\Users\H203890\Documents\Visual Studio 2015\Projects\ClassLibrary1\PrimeCalculationsTests\bin\Debug\PrimeCalculationsTests.dll
+C:\Users\H203890\Documents\Visual Studio 2015\Projects\ClassLibrary1\PrimeCalculationsTests\bin\Debug\PrimeCalculationsTests.pdb
+C:\Users\H203890\Documents\Visual Studio 2015\Projects\ClassLibrary1\PrimeCalculationsTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\H203890\Documents\Visual Studio 2015\Projects\ClassLibrary1\PrimeCalculationsTests\bin\Debug\PrimeCalculations.dll
+C:\Users\H203890\Documents\Visual Studio 2015\Projects\ClassLibrary1\PrimeCalculationsTests\bin\Debug\PrimeCalculations.pdb
+C:\Users\H203890\Documents\Visual Studio 2015\Projects\ClassLibrary1\PrimeCalculationsTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\H203890\Documents\Visual Studio 2015\Projects\ClassLibrary1\PrimeCalculationsTests\obj\Debug\PrimeCalculationsTests.csprojResolveAssemblyReference.cache
+C:\Users\H203890\Documents\Visual Studio 2015\Projects\ClassLibrary1\PrimeCalculationsTests\obj\Debug\PrimeCalculationsTests.dll
+C:\Users\H203890\Documents\Visual Studio 2015\Projects\ClassLibrary1\PrimeCalculationsTests\obj\Debug\PrimeCalculationsTests.pdb

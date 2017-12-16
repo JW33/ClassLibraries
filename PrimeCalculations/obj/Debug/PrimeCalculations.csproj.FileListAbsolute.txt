@@ -1,0 +1,5 @@
+C:\Users\H203890\Documents\Visual Studio 2015\Projects\ClassLibrary1\PrimeCalculations\bin\Debug\PrimeCalculations.dll
+C:\Users\H203890\Documents\Visual Studio 2015\Projects\ClassLibrary1\PrimeCalculations\bin\Debug\PrimeCalculations.pdb
+C:\Users\H203890\Documents\Visual Studio 2015\Projects\ClassLibrary1\PrimeCalculations\obj\Debug\PrimeCalculations.csprojResolveAssemblyReference.cache
+C:\Users\H203890\Documents\Visual Studio 2015\Projects\ClassLibrary1\PrimeCalculations\obj\Debug\PrimeCalculations.dll
+C:\Users\H203890\Documents\Visual Studio 2015\Projects\ClassLibrary1\PrimeCalculations\obj\Debug\PrimeCalculations.pdb
