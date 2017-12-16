@@ -1,0 +1,9 @@
+C:\Users\H203890\Documents\Visual Studio 2015\Projects\ClassLibrary1\ArrayCalculationsTests\bin\Debug\ArrayCalculationsTests.dll
+C:\Users\H203890\Documents\Visual Studio 2015\Projects\ClassLibrary1\ArrayCalculationsTests\bin\Debug\ArrayCalculationsTests.pdb
+C:\Users\H203890\Documents\Visual Studio 2015\Projects\ClassLibrary1\ArrayCalculationsTests\bin\Debug\ArrayCalculations.dll
+C:\Users\H203890\Documents\Visual Studio 2015\Projects\ClassLibrary1\ArrayCalculationsTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\H203890\Documents\Visual Studio 2015\Projects\ClassLibrary1\ArrayCalculationsTests\bin\Debug\ArrayCalculations.pdb
+C:\Users\H203890\Documents\Visual Studio 2015\Projects\ClassLibrary1\ArrayCalculationsTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\H203890\Documents\Visual Studio 2015\Projects\ClassLibrary1\ArrayCalculationsTests\obj\Debug\ArrayCalculationsTests.csprojResolveAssemblyReference.cache
+C:\Users\H203890\Documents\Visual Studio 2015\Projects\ClassLibrary1\ArrayCalculationsTests\obj\Debug\ArrayCalculationsTests.dll
+C:\Users\H203890\Documents\Visual Studio 2015\Projects\ClassLibrary1\ArrayCalculationsTests\obj\Debug\ArrayCalculationsTests.pdb

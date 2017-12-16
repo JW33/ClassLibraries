@@ -1,0 +1,4 @@
+C:\Users\H203890\Documents\Visual Studio 2015\Projects\ClassLibrary1\ArrayCalculations\bin\Debug\ArrayCalculations.dll
+C:\Users\H203890\Documents\Visual Studio 2015\Projects\ClassLibrary1\ArrayCalculations\bin\Debug\ArrayCalculations.pdb
+C:\Users\H203890\Documents\Visual Studio 2015\Projects\ClassLibrary1\ArrayCalculations\obj\Debug\ArrayCalculations.dll
+C:\Users\H203890\Documents\Visual Studio 2015\Projects\ClassLibrary1\ArrayCalculations\obj\Debug\ArrayCalculations.pdb
